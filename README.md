@@ -4,11 +4,6 @@ I'm **Matheus Perez** — Senior iOS Developer at [Mercado Bitcoin](https://www.
 
 I build production iOS apps for millions of users by day, and ship indie products and developer tooling by night. Most of my work lives in private repos — what you see here is the visible tip of the iceberg.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elsePerez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsePerez&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ---
 
 ## What I focus on
