@@ -66,7 +66,7 @@ A large share of my code is shipped under NDA (employer codebases) or kept priva
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/matheus-vagner-perez-85128a16b/">
+<a href="https://www.linkedin.com/in/matheus-perez-85128a16b/">
   <img alt="LinkedIn" height="25px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:matheusvperez@gmail.com">
