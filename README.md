@@ -30,6 +30,18 @@ A large share of my code is shipped under NDA (employer codebases) or kept priva
 
 ---
 
+## Writing
+
+I publish long-form articles on Medium (in Portuguese) about how I actually use AI to build iOS software — concrete pipelines, not hype.
+
+- 📝 [**O Vault que Responde: Smart Connections, Dois MCPs em Paralelo e a Hora em que o Ecossistema Alcança Seu Projeto Custom**](https://medium.com/@matheusvperez/o-vault-que-responde-smart-connections-dois-mcps-em-paralelo-e-a-hora-em-que-o-ecossistema-4c5e54dfe7ce)
+- 📝 [**De Assistente a Time: A Evolução do Meu Pipeline iOS com Agents Especializados, Skills Lean e Enforcement Automático**](https://medium.com/@matheusvperez/de-assistente-a-time-a-evolução-do-meu-pipeline-ios-com-agents-especializados-skills-lean-e-42aa6d32e0ab)
+- 📝 [**Como Criei um Pipeline de Dev iOS Automatizado com Claude Code, Obsidian e GitNexus**](https://medium.com/@matheusvperez/como-criei-um-pipeline-de-dev-ios-automatizado-com-claude-code-obsidian-e-gitnexus-66a3f9a8f90a)
+
+→ [Read all on Medium](https://medium.com/@matheusvperez)
+
+---
+
 ## Tech stack
 
 **Languages**
@@ -71,6 +83,9 @@ A large share of my code is shipped under NDA (employer codebases) or kept priva
 </a>
 <a href="mailto:matheusvperez@gmail.com">
   <img alt="Email" height="25px" src="https://img.shields.io/badge/-Email-EA4335?&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://medium.com/@matheusvperez">
+  <img alt="Medium" height="25px" src="https://img.shields.io/badge/-Medium-000000?&logo=medium&logoColor=white"/>
 </a>
 <a href="https://github.com/elsePerez">
   <img alt="GitHub" height="25px" src="https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=white"/>
